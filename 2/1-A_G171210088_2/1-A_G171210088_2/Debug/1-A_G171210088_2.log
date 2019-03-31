@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  1-A_G171210088_2.cpp
+c:\users\hp\desktop\1-a_g171210088_2\1-a_g171210088_2\1-a_g171210088_2.cpp(24): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  1-A_G171210088_2.vcxproj -> C:\Users\HP\Desktop\1-A_G171210088_2\Debug\1-A_G171210088_2.exe
